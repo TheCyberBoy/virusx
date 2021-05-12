@@ -1,7 +1,7 @@
 # virusx
 Virus spread tool for termux.
 
-<a href="https://ibb.co/wYVv4cx"><img src="https://i.ibb.co/GFyhRHb/virusx.jpg" alt="virusx" border="0"></a>
+<img src="https://i.ibb.co/GFyhRHb/virusx.jpg" alt="virusx" border="0">
 
 ## ABOUT TOOL :
 
